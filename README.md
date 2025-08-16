@@ -45,7 +45,7 @@ To build a **secure and resilient wireless network** that safeguards sensitive b
 ## 🙌 Author  
 **Aman Raj**  
 Intern, NIIT Foundation × Cisco Cybersecurity Program  
-[LinkedIn Profile](#) <!-- Replace # with your actual LinkedIn profile link -->  
+[LinkedIn Profile](https://www.linkedin.com/in/aman-raj-116826335) <!-- Replace # with your actual LinkedIn profile link -->  
 
 ---
 
